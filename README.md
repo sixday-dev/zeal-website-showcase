@@ -48,7 +48,7 @@
 * สร้าง Responsive Design ที่สมบูรณ์แบบ ให้ใช้งานได้ดีบนทุกอุปกรณ์
 
 ![หน้า Home Desktop](screenshots/zeal-home-desktop.jpg)
-![หน้า Home Mobile](screenshots.md/zeal-home-mobile.jpg)
+![หน้า Home Mobile](screenshots/zeal-home-mobile.jpg)
 
 ---
 
